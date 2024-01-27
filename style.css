@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#inputForm {
+    margin-bottom: 20px;
+}
+
+#predictionResult {
+    font-weight: bold;
+    color: green;
+}
